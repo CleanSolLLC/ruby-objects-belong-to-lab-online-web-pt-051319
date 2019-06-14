@@ -1,6 +1,6 @@
 require 'pry'
 
-class Song
+class Post
 
   attr_accessor :title, :author
 
